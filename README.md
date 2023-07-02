@@ -1,4 +1,4 @@
-# "Demo: Automated Tests for iOS Native and Web-based apps"
+# Demo: Automated Tests for iOS Native and Web-based apps
 
 **Description:** 
 - Project contains samples of the Functional, End-to-End and Integration UI tests with Typescript + [WebdriverIO](https://webdriver.io/)
