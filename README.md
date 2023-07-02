@@ -5,9 +5,9 @@
 - Tested website [Herokuapp](https://the-internet.herokuapp.com/) provides a variety of web application examples for testing. 
 
 **Disclaimer:**  
-   All code in this repository is provided for demonstration purposes only. iOS native tests are configured to run on real devices, and tested iOS app files (.app or .ipa) needs to be maintained separately, preferably in the CI pipeline, according to the release process. Therefore, test environment configurations may need to be modified to match your specific setup.
+   ⚠️ All code in this repository is provided for demonstration purposes only. iOS native tests are configured to run on real devices, and tested iOS app files (.app or .ipa) needs to be maintained separately, preferably in the CI pipeline, according to the release process. Therefore, test environment configurations may need to be modified to match your specific setup.
 
-## Requirements
+## 
 - Node version 14 or higher
 - Installed [Appium] (./docs/APPIUM.md) on running machine (for testing mobile apps)
 - Installed Chrome browser (for testing web based apps)
