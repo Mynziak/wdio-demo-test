@@ -1,0 +1,22 @@
+!config/
+!docs/
+!test/
+!babel.config.js
+!README.md
+!.gitignore
+!package.json
+!tsconfig.json
+.DS_Store
+
+
+# node.js
+#
+node_modules/
+npm-debug.log
+
+# custom
+*.log
+chromeDriver
+.tmp
+.allure-results
+.allure-report

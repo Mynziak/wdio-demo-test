@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "experimentalDecorators": true,
+      "outDir": "./.tsbuild/",
+      "sourceMap": false,
+      "target": "es2019",
+      "module": "commonjs",
+      "removeComments": true,
+      "noImplicitAny": true,
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true,
+      "skipLibCheck": true,
+      "types": [
+        "node",
+        "wdio-vscode-service",
+        "webdriverio/async",
+        "@wdio/mocha-framework",
+        "expect-webdriverio",
+      ]
+    },
+    "include": ["./**/*"]
+  }
