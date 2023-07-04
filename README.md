@@ -22,7 +22,7 @@
 5. [Optional] Add configurations for your test devices (environment)  `*.config.ts`
 6. Modify running scripts in `package.json`
 7. Run Appium Server (For running native iOS tests on local machine): `appium`
-8. Run tests: `npm run` + script from `package.json`, for instance for the testing iOS native app on iPhone 11  `npm run ios.measurement_app.iphone11`, 
+8. Run tests: `npm run` + script from `package.json`, for instance : `npm run web.chrome.heroku`, 
 9. Open Test report: 
  - Generate report (Optional, can be generated via hook in config): `npm run report:generate` 
  - Open the allure report: `npm run report:open`
